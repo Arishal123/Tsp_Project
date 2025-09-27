@@ -52,11 +52,11 @@ instance,algo,best,mean,max,SR%
 ```
 
 ## 📈 Graphical Comparison
-Y-axis: Fitness value (tour length).
-X-axis: Function calls / generation counter.
-GA: Gradually decreases.
-DP: Fluctuates with partial solutions before converging.
-Each .tsp instance opens in its own chart window.
+1) Y-axis: Fitness value (tour length).
+2) X-axis: Function calls / generation counter.
+3) GA: Gradually decreases.
+4) DP: Fluctuates with partial solutions before converging.
+5) Each .tsp instance opens in its own chart window.
 
 ## 📂 Project Structure
 ```bash
@@ -75,6 +75,6 @@ src/tsp/
   ```
 
 ## 👨‍🎓 Author
-Name: Arishal Prathik Sharma
-Course: CS214 – Design & Analysis of Algorithms
-University: University of the South Pacific (USP)
+- Name: Arishal Prathik Sharma
+- Course: CS214 – Design & Analysis of Algorithms
+- University: University of the South Pacific (USP)
